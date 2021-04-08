@@ -1,3 +1,6 @@
 pandas
 numpy
-numpy.ma
+matplotlib
+netCDF4
+mpl_toolkits
+geopy
