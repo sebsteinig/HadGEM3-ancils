@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - basemap=1.2.1
+  - cdo=1.9.6
   - geopy=2.1.0
   - matplotlib=3.2.1
   - numpy=1.18.1
