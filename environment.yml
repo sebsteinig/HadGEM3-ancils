@@ -7,8 +7,10 @@ dependencies:
   - basemap=1.2.1
   - cdo=1.9.6
   - geopy=2.1.0
+  - jupyterlab
   - matplotlib=3.2.1
   - numpy=1.18.1
   - pandas=1.0.5
+  - pip=20.1.1
   - pip:
     - netcdf4==1.5.3

@@ -1,0 +1,11 @@
+references for 'PlioMIP2_PRISM4_boundary_conditions':
+
+- Dowsett, H., Dolan, A., Rowley, D., Moucha, R., Forte, A. M., Mitrovica, J. X., Pound, 
+M., Salzmann, U., Robinson, M., Chandler, M., Foley, K., and Haywood, A.: The PRISM4 
+(mid-Piacenzian) paleoenvironmental reconstruction, Clim. Past, 12, 1519–1538, 
+https://doi.org/10.5194/cp-12-1519-2016, 2016.
+
+-  Haywood, A. M., Dowsett, H. J., Dolan, A. M., Rowley, D., Abe-Ouchi, A., Otto-Bliesner, 
+B., Chandler, M. A., Hunter, S. J., Lunt, D. J., Pound, M., and Salzmann, U.: The 
+Pliocene Model Intercomparison Project (PlioMIP) Phase 2: scientific objectives and 
+experimental design, Clim. Past, 12, 663–675, https://doi.org/10.5194/cp-12-663-2016, 2016.
