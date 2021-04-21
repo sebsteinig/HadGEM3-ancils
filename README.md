@@ -1,5 +1,7 @@
 # Generate HadGEM3 ancillary files
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebsteinig/HadGEM3-ancils/HEAD)
+
 Collection of interactive jupyter notebooks to reproduce and document the ancillary file 
 generation for my HadGEM3 experiments. Notebooks are written in python 3.7. Each directory 
 is self-contained and includes all files and notebooks necessary to create the non-default 
@@ -31,4 +33,8 @@ or directly from the command line with
 jupyter nbconvert --to notebook --inplace --execute notebook_name.ipynb
 ```
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebsteinig/HadGEM3-ancils/HEAD)
+## Converting to Unified Model (UM) format
+Notebooks produce initial and boundary condition files in netCDF format for easier
+manipulation and plotting. HadGEM3 expects those to be in UM format. 
+[Xancil](http://cms.ncas.ac.uk/documents/xancil/) needs to be used to convert the new 
+netCDF files to UM format.
