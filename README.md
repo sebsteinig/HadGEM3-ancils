@@ -38,7 +38,7 @@ Notebooks produce initial and boundary condition files in netCDF format for easi
 manipulation and plotting. HadGEM3 expects those to be in UM format. 
 [Xancil](http://cms.ncas.ac.uk/documents/xancil/) is installed on 
 [NEXCS](http://cms.ncas.ac.uk/wiki/NEXCS) and can be used to convert the newly created 
-netCDF files to UM format. Run xazncil on NEXCS via
+netCDF files to UM format. Run xancil on NEXCS via
 
 ```
 ~jecole/bin/xancil
