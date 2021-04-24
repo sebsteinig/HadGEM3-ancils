@@ -36,5 +36,9 @@ jupyter nbconvert --to notebook --inplace --execute notebook_name.ipynb
 ## Converting to Unified Model (UM) format
 Notebooks produce initial and boundary condition files in netCDF format for easier
 manipulation and plotting. HadGEM3 expects those to be in UM format. 
-[Xancil](http://cms.ncas.ac.uk/documents/xancil/) needs to be used to convert the new 
-netCDF files to UM format.
+[Xancil](http://cms.ncas.ac.uk/documents/xancil/) is installed on 
+[NEXCS](http://cms.ncas.ac.uk/wiki/NEXCS) and can be used to convert the newly created 
+netCDF files to UM format. 
+
+Need to add description on how to run xancil on command line and document some quirks for
+individual ancils.
