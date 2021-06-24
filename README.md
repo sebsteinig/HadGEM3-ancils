@@ -47,3 +47,5 @@ netCDF files to UM format. Run xancil on NEXCS via
 
 Need to add description on how to run xancil on command line and document some quirks for
 individual ancils.
+
+Reproduce ancils with xancil on BRIDGE machines.
